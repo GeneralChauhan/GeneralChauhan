@@ -1,5 +1,5 @@
 ### Hi there 👋
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=generalchauhan&label=Profile%20Views&theme=react-dark&style=plastic" alt="generalchauhan" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=akshaymarch7&label=Profile%20Views&theme=react-dark&style=plastic" alt="generalchauhan" /> </p>
 <!--
 **GeneralChauhan/GeneralChauhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
